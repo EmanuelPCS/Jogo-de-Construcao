@@ -1,0 +1,10 @@
+cons minaf 3 3
+list
+cont miner 3 3
+list 3 3
+cont len 3 3
+list
+cont miner 3 3
+cont len 3 3
+cont miner 3 3
+cont len 3 3

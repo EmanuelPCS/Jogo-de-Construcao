@@ -1,0 +1,4 @@
+/snap/clion/178/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/media/manu/DATA/ISEC/Engenharia_Informatica/2_ano/1_Semestre/Programacao Orientada a Objetos/Meta2/TP_Final"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/manu/DATA/ISEC/Engenharia_Informatica/2_ano/1_Semestre/Programacao Orientada a Objetos/Meta2/TP_Final/cmake-build-debug

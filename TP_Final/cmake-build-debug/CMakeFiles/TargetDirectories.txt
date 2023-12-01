@@ -1,0 +1,3 @@
+/media/manu/DATA/ISEC/Engenharia_Informatica/2_ano/1_Semestre/Programacao Orientada a Objetos/Meta2/TP_Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/manu/DATA/ISEC/Engenharia_Informatica/2_ano/1_Semestre/Programacao Orientada a Objetos/Meta2/TP_Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/manu/DATA/ISEC/Engenharia_Informatica/2_ano/1_Semestre/Programacao Orientada a Objetos/Meta2/TP_Final/cmake-build-debug/CMakeFiles/TP_Final.dir
